@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<time name="Anoyomouse" offset="+2" dst="False" />
+	<time name="FurtiveFox" offset="-8" dst="True"/>
+</root>
